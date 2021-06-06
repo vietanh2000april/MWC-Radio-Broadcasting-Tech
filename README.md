@@ -33,8 +33,8 @@ https://www.britannica.com/technology/radio-technology/Development-of-radio-tech
 ## Hand wiring
 
 ## Printed circuits
-A printed circuit board
 ![image](https://user-images.githubusercontent.com/47298653/120927712-09083580-c70c-11eb-9963-3b2fb590fc31.png)
+<p> A printed circuit board </p>
 
 
 
