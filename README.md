@@ -19,6 +19,7 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 
 # Mechanism of wave propagation
 
+# Frequency bands
 
 # References
 1. https://en.wikipedia.org/wiki/Radio_broadcasting
