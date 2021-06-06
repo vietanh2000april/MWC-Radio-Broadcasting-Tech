@@ -49,4 +49,4 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 # References
 1. https://en.wikipedia.org/wiki/Radio_broadcasting
 2. https://www.britannica.com/technology/radio-technology
-3. 
+3. https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/radio-broadcasting-technology
