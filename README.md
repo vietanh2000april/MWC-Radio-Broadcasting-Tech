@@ -17,6 +17,9 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 
 ## 4. Terrestrial digital radio
 
+# Mechanism of wave propagation
+
+
 # References
 1. https://en.wikipedia.org/wiki/Radio_broadcasting
 
