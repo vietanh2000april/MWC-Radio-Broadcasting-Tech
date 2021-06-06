@@ -10,12 +10,26 @@
 # Definition
 Radio broadcasting is transmission of audio (sound), sometimes with related metadata, by radio waves intended to reach a wide audience.
 
-# History
+# History of radio technolology
+## Maxwell’s prediction
 
-# Means Of Broadcasting
+## Heinrich Hertz and radio-wave experiments
+
+## Marconi’s development of wireless telegraphy
+
+## The Fleming diode and De Forest Audion
+
+## Early research by commercial companies
+
+## Hand wiring
+
+## Printed circuits
+
+
+# Means of broadcasting
 Broadcasting transmission (sound and television) uses both wires and radio waves (wireless).
 
-# Types Of Radio Broadcasting
+# Types of radio broadcasting
 ## 1. AM
 
 ## 2. FM
@@ -27,6 +41,10 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 # Mechanism of wave propagation
 
 # Frequency bands
+
+# Radio noise, fading, and interference
+
+# Applications
 
 # References
 1. https://en.wikipedia.org/wiki/Radio_broadcasting
