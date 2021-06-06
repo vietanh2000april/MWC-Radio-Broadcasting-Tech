@@ -76,12 +76,14 @@ https://en.wikipedia.org/wiki/Radio_broadcasting
 
 ## 4. Terrestrial digital radio
 
+https://www.britannica.com/technology/radio-technology#ref25122
 # Mechanism of wave propagation
 
 # Frequency bands
 
 # Radio noise, fading, and interference
 
+https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/radio-broadcasting-technology
 # Applications
 ## Microphones
 
