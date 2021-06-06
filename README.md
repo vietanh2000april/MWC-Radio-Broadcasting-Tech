@@ -66,7 +66,7 @@ There are 4 types of broadcast models : 1.Flat Model 2.Circular Multi Disk Model
 4. Expected waiting time for data with less importance is much higher than that of important data. 
 5. For skewed access probabilities, non-flat programs are better.
 
-
+https://en.wikipedia.org/wiki/Radio_broadcasting
 # Types of radio broadcasting
 ## 1. AM
 
