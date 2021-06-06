@@ -13,11 +13,15 @@ Radio broadcasting is transmission of audio (sound), sometimes with related meta
 # History of radio technolology
 ## Maxwell’s prediction
 
+
 ## Heinrich Hertz and radio-wave experiments
+
 
 ## Marconi’s development of wireless telegraphy
 
+
 ## The Fleming diode and De Forest Audion
+
 
 ## Early research by commercial companies
 
@@ -45,6 +49,21 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 # Radio noise, fading, and interference
 
 # Applications
+## Microphones
+
+
+## Music Sources
+
+
+## Tape Recorders
+
+
+## The Audio Console
+
+
+## Monitors, Audio Processors, and Transmitters
+
+
 
 # References
 1. https://en.wikipedia.org/wiki/Radio_broadcasting
