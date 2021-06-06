@@ -17,19 +17,40 @@ Broadcasting is the distribution of audio or video content to a dispersed audien
 https://www.britannica.com/technology/radio-technology/Development-of-radio-technology
 # History of radio technolology
 ## Maxwell’s prediction
-
+  1864: James Clerk Maxwell proved: 
+  + Any electrical disturbance could produce an effect at a considerable distance from the point at which it occurred
+  + Electromagnetic energy could travel outward from a source as waves moving at the speed of light.
 
 ## Heinrich Hertz and radio-wave experiments
-
+ Hertz's Experiment:
+   + 1 spark gap at the centre of a parabolic metal mirror
+   + Another spark gap connected with a wire ring: 1.5m away at the focus of another parabolic collector (in line with the first)
+   + Obserse: A spark jumped across the first gap => A smaller spark jumped across the 2nd gap
+   => Heinrich Hertz showed that:
+      * The waves travelled in straight lines
+      * They could be reflected by a metal sheet
 
 ## Marconi’s development of wireless telegraphy
-
+  Marconi's Experiment: (repeated Hertz’s experiments with small modifications)
+    + One side of the primary spark gap: attached to an elevated wire (antenna)
+    + Other side: attached to Earth
+    => The distance between transmitter and receiver was gradually increased ( max: 3 km)
+    + The secondary-spark detector: replaced with a coherer (invented by Edouard Branly in 1890)
+    => Maximum distance reached 3200 km
 
 ## The Fleming diode and De Forest Audion
-
+  + 1904:  Sir John Ambrose Fleming invented the diode
+  + 1906:  Lee De Forest invented the Audion.
 
 ## Early research by commercial companies
-
+  + First commercial company to be incorporated for the manufacture of radio apparatus: the Wireless Telegraph and Signal Company, Ltd. (July 1897)
+  + 1912: Lee De Forest discovered the oscillating properties of his Audion tube
+  => Spark transmitter was replaced by electronic tube oscillator (=> generate much purer radio waves of relatively stable frequency)
+  + 1910: 
+    - radio messages between land stations and ships had become commonplace
+    - the first air-to-ground radio contact was established from an aircraft
+  + 1915: the American Telephone & Telegraph Company successfully (the first) transmitted speech signals from west to east across the Atlantic (between Arlington, Virginia, and Paris)
+  + 1948: electron tube was invented
 ## Hand wiring
 
 ## Printed circuits
