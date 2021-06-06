@@ -4,8 +4,8 @@
 2. Vũ Tuấn Phương Nam
 3. Đỗ Thành Đạt
 ## Roles
-Collect data and information: Lê Việt Anh, Vũ Tuấn Phương Nam
-Presentation: Đỗ Thành Đạt
+1. Collect data and information: Lê Việt Anh, Vũ Tuấn Phương Nam
+2. Presentation: Đỗ Thành Đạt
 
 # Definition
 Radio broadcasting is transmission of audio (sound), sometimes with related metadata, by radio waves intended to reach a wide audience.
