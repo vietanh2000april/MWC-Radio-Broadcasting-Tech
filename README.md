@@ -8,7 +8,11 @@
 2. Presentation: Đỗ Thành Đạt
 
 # Definition
-Radio broadcasting is transmission of audio (sound), sometimes with related metadata, by radio waves intended to reach a wide audience.
+## Radio broadcasting 
+Radio broadcasting is the transmission of audio (sound), sometimes with related metadata, by radio waves intended to reach a wide audience.
+
+## Broadcasting
+Broadcasting is the distribution of audio or video content to a dispersed audience via any electronic mass communications medium, but typically one using the electromagnetic spectrum (radio waves), in a one-to-many model.
 
 # History of radio technolology
 ## Maxwell’s prediction
@@ -32,6 +36,35 @@ Radio broadcasting is transmission of audio (sound), sometimes with related meta
 
 # Means of broadcasting
 Broadcasting transmission (sound and television) uses both wires and radio waves (wireless).
+
+## Wires
+
+## Wireless
+
+# Broadcast Models
+
+There are 4 types of broadcast models : 1.Flat Model 2.Circular Multi Disk Model 3.Multi Disk Model 4.Skewed Model
+
+## Flat Model 
+1. The server broadcasts the data as per cyclic requests without taking into account the number of devices that subscribe to a particular record. 
+2. Flat disk has the best expected performance for uniform page access probabilities.
+
+## Circular Multi Disk Model 
+1. Each block of records pushed with a repetition rate proportional to its hierarchical level 
+2. Record blocks R0,R1,R2,R3,R0,R1,R2,R3 transmitted in a single broadcast cycle. 
+3. All record blocks have an equal priority level.
+
+## Multi Disk Model 
+1. Here broadcast is structured as multiple disks of varying sizes, each spinning at various rates. 
+2. Consider the below example where page A was stored on a single page disk and that is spinning twice as fast as the second two-page disk containing pages B and C.
+
+## Skewed Model 
+1. In this model subsequent broadcast of more important data is clustered together. 
+2. The data items are organized into the disks depending on their respective frequencies of access. 
+3. The data items most frequently accessed are placed in the fastest disk and least accessed in the slowest disk.
+4. Expected waiting time for data with less importance is much higher than that of important data. 
+5. For skewed access probabilities, non-flat programs are better.
+
 
 # Types of radio broadcasting
 ## 1. AM
@@ -69,3 +102,5 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 1. https://en.wikipedia.org/wiki/Radio_broadcasting
 2. https://www.britannica.com/technology/radio-technology
 3. https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/radio-broadcasting-technology
+4. https://en.wikipedia.org/wiki/Broadcasting
+5. https://www.slideshare.net/NatarajaSundaram1/broadcast-models
