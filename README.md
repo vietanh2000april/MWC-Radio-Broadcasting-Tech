@@ -42,6 +42,22 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 
 ## Wireless
 
+https://www.britannica.com/technology/radio-technology#ref25122
+
+# Components
+
+## Active devices: vacuum tubes and transistors
+
+## Tuned circuits and the superheterodyne principle
+
+## Oscillators
+
+## Amplifiers
+
+## Antennas
+
+## Transmission lines
+
 # Broadcast Models
 
 There are 4 types of broadcast models : 1.Flat Model 2.Circular Multi Disk Model 3.Multi Disk Model 4.Skewed Model
@@ -98,6 +114,7 @@ https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/r
 
 
 ## Monitors, Audio Processors, and Transmitters
+
 
 
 
