@@ -79,7 +79,7 @@ The output voltage is usually many times greater than the input voltage to the g
 The tube must be pumped to a high degree of vacuum, or the plate current flow is erratic.</br>
 ### Tetrode
 <p>Tetrode contains an open-mesh grid (screen grid) maintained at a positive voltage is placed between plate and control grid.</p></br>
-> ![image](https://user-images.githubusercontent.com/47298653/121017746-d15ec380-c7c7-11eb-8497-b6ecc3bd85b0.png)
+> ![image](https://user-images.githubusercontent.com/47298653/121017846-f05d5580-c7c7-11eb-9453-277fc88e1c4b.png)
 <p>This reduces the effect of plate voltage on electron flow and increases the amplifying property of the tube.</p></br>
 Introduction of a third grid, known as a suppressor grid, produces the pentode (five-electrode tube), which can provide even greater amplification.</br>
 4. 
