@@ -90,6 +90,17 @@ There are 4 types of broadcast models : 1.Flat Model 2.Circular Multi Disk Model
 https://en.wikipedia.org/wiki/Radio_broadcasting
 # Types of radio broadcasting
 ## 1. AM
+### Overview
+1. AM stations were the earliest broadcasting stations to be developed.
+2. AM is short for amplitude modulation.
+3. AM is a mode of broadcasting radio waves by varying the amplitude of the carrier signal in response to the amplitude of the signal to be transmitted.
+4. The medium-wave band is used worldwide for AM broadcasting.
+5. Some North American stations began broadcasting in AM stereo, though this never gained popularity, and very few receivers were ever sold.
+### Pros
+1. It can be detected (turned into sound) with simple equipment. If a signal is strong enough, not even a power source is needed.
+2. An unpowered crystal radio receiver is enough to receive AM signal.
+### Cons
+The signal is subject to interference from electrical storms (lightning) and other electromagnetic interference (EMI).
 
 ## 2. FM
 
