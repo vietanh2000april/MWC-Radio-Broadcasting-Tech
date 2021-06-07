@@ -68,6 +68,12 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 # Components
 
 ## Active devices: vacuum tubes and transistors
+1. An electron tube or transistor, designated an active element, functions basically as an amplifier, and its output is essentially an amplified copy of the original input signal.
+2. The simplest amplifying electron tube is the triode.
+3. Triode consists of a cathode coated with material that provides a copious supply of electrons when heated, an open-mesh grid allowing electrons to pass through but controlling their flow, and a plate (anode) to collect the electrons.
+> ![image](https://user-images.githubusercontent.com/47298653/121016273-20a3f480-c7c6-11eb-9632-1502a6564f02.png)
+4. 
+5. 
 
 ## Tuned circuits and the superheterodyne principle
 
