@@ -97,17 +97,12 @@ The tube must be pumped to a high degree of vacuum, or the plate current flow is
 
 > ![image](https://user-images.githubusercontent.com/47298653/121018924-25b67300-c7c9-11eb-80e1-ab54a431f432.png)
 
-<p>Two common semiconductor materials are germanium and silicon, to which small amounts of impurities such as indium, gallium, arsenic, or phosphorus are added to impart electrical charges to them.</p></br>
-
-A transistor is a sandwich of semiconductor materials with the same impurity in the two outer layers and a different impurity in the centre layer providing current carriers of opposite charge to those produced by the outer layers.</br>
-
-A transistor is an amplifier of current; the vacuum tube, in contrast, is an amplifier of voltage.</br>
-
-The transistor produces an adequate supply of current carriers (electrons and holes) at room temperature and does not require a heated cathode as does the vacuum tube.</br>
-
-Thus the power required from the power supply is much reduced, less heat is produced, and the transistors and their circuitry can be packed into a smaller container and takes up less space.</br> 
-
-Transistors are also physically much smaller than comparable electron tubes.
+<p>Two common semiconductor materials are germanium and silicon, to which small amounts of impurities such as indium, gallium, arsenic, or phosphorus are added to impart electrical charges to them.</p>
+<p>A transistor is a sandwich of semiconductor materials with the same impurity in the two outer layers and a different impurity in the centre layer providing current carriers of opposite charge to those produced by the outer layers.</p>
+<p>A transistor is an amplifier of current; the vacuum tube, in contrast, is an amplifier of voltage.</p>
+<p>The transistor produces an adequate supply of current carriers (electrons and holes) at room temperature and does not require a heated cathode as does the vacuum tube.</p>
+<p>Thus the power required from the power supply is much reduced, less heat is produced, and the transistors and their circuitry can be packed into a smaller container and takes up less space.</p> 
+<p>Transistors are also physically much smaller than comparable electron tubes.</p>
 
 ## Tuned circuits and the superheterodyne principle
 <p>For information (voice, music, television) to be transmitted, it must be attached to a radio-frequency carrier wave, which is then transmitted in a given frequency channel.</p>
@@ -123,6 +118,10 @@ Transistors are also physically much smaller than comparable electron tubes.
 <p>Amplification is thereafter carried out at this intermediate frequency.</p>
 
 ## Oscillators
+<p>A self-oscillating circuit consists of a vacuum tube or transistor, a tuned circuit, and some form of positive feedback (energy fed from the output back to the input in such a way as to increase the input).</p>
+<p>Since both tubes and transistors can function as amplifiers, they can also function as oscillators.</p>
+<p>For receiver circuits, adequate oscillator stability can be obtained with conventional tuned circuits, but the transmitter oscillator must be highly stable, and a circuit made up of inductance and capacitance, tuned to the desired frequency, is not sufficiently stable.</p>
+<p>A piezoelectric crystal oscillator (a device that vibrates or oscillates at a given frequency emitting radio waves when voltage is applied to it) or its equivalent is ordinarily used.</p>
 
 ## Amplifiers
 
