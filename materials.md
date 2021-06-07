@@ -143,7 +143,12 @@ Amplifiers may be classified in a number of different ways:
 <p>The antenna system becomes progressively smaller as the transmitting frequency is increased, and at ultrahigh frequencies (300 megahertz or more) the individual antenna may be only about 50 centimetres (20 inches) long.</p>
 <p>For normal amplitude-modulated broadcasting, the receiver antenna may be composed of a fairly short coil of wire wound on a powdered iron or ferrite core.</p>
 <p>This type of design permits adequate signal pickup with a very small antenna which may be located in a small space, a necessity for small, battery-operated portable receivers.</p>
+
 ## Transmission lines
+<p>The lines that carry radio waves from the radio transmitter to the antenna are known as transmission lines.</p>
+<p>Their purpose is to convey radio-frequency energy with minimum heating and radiation loss.</p>
+<p>Heating losses are reduced by conductors of adequate size.</p>
+<p>Only the outer layers of the conductor carry radio-frequency current.</p>
 
 # Broadcast Models
 
