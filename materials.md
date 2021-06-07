@@ -88,11 +88,9 @@ The tube must be pumped to a high degree of vacuum, or the plate current flow is
 
 > ![4CX3500A RF Tetrode at Rs 300000/piece | Delhi| ID: 20590476330](https://5.imimg.com/data5/KM/QD/WY/SELLER-7200170/rf-tetrode-500x500.jpg)
 
-<p>Tetrode contains an open-mesh grid (screen grid) maintained at a positive voltage is placed between plate and control grid.</p></br>
-
-<p>This reduces the effect of plate voltage on electron flow and increases the amplifying property of the tube.</p></br>
-
-Introduction of a third grid, known as a suppressor grid, produces the pentode (five-electrode tube), which can provide even greater amplification.</br>
+<p>Tetrode contains an open-mesh grid (screen grid) maintained at a positive voltage is placed between plate and control grid.</p>
+<p>This reduces the effect of plate voltage on electron flow and increases the amplifying property of the tube.</p>
+<p>Introduction of a third grid, known as a suppressor grid, produces the pentode (five-electrode tube), which can provide even greater amplification.</p>
 
 ### Transistors
 <p>They largely replaced the electron tube as the active element in low-voltage electronic circuits, is made from semiconductor materials.</p></br>
