@@ -100,13 +100,31 @@ https://en.wikipedia.org/wiki/Radio_broadcasting
 1. It can be detected (turned into sound) with simple equipment. If a signal is strong enough, not even a power source is needed.
 2. An unpowered crystal radio receiver is enough to receive AM signal.
 ### Cons
-The signal is subject to interference from electrical storms (lightning) and other electromagnetic interference (EMI).
+1. The signal is subject to interference from electrical storms (lightning) and other electromagnetic interference (EMI).
 
 ## 2. FM
+### Overview
+1. FM refers to frequency modulation.
+2. It occurs on VHF airwaves in the frequency range of 88 to 108 MHz everywhere except Japan and Russia.
+3. Edwin Howard Armstrong invented FM radio.
+4. FM channels are 200 kHz (0.2 MHz) apart, instead of 10 kHz apart, as on the AM band in the US.
+### Pros
+1. Invulnerable to radio-frequency interference (RFI), unlike AM.
+2. Because of its greater range, AM remained more common in rural environment.
+### Cons
+1. The much larger bandwidths, compared to AM and SSB, are more susceptible to phase dispersion.
 
 ## 3. Pirate radio
-
+### Overview
+1. Pirate radio is illegal or non-regulated radio transmission, unlicensed broadcast of FM radio, AM radio, or shortwave signals over a wide range.
+2. They are illegal broadcasting for entertainment or political purposes, sometimes illegal two-way radio operation.
+3. Historically there has been occasional use of sea vessels—fitting the most common perception of a pirate—as broadcasting bases.
 ## 4. Terrestrial digital radio
+### Overview
+1. Digital radio broadcasting has emerged, first in Europe (the UK in 1995 and Germany in 1999), and later in the United States, France, the Netherlands, South Africa, and many other countries worldwide.
+2. The simplest system is named DAB Digital Radio, for Digital Audio Broadcasting, used mainly in the UK and South Africa.
+3. The broadcasting regulators of the United States and Canada have chosen to use HD radio, an in-band on-channel system that puts digital broadcasts at frequencies adjacent to the analog broadcast.
+4. HD Radio is owned by a consortium of private companies that is called iBiquity.
 
 https://www.britannica.com/technology/radio-technology#ref25122
 # Mechanism of wave propagation
