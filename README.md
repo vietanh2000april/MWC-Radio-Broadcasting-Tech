@@ -136,11 +136,10 @@ The antenna can be designed to concentrate the radio energy into a beam like a s
 # Frequency bands
 The radio-frequency spectrum is divided arbitrarily into a number of bands from very low frequencies to superhigh frequencies (described in Table 4). </br></br>
 > ![image](https://user-images.githubusercontent.com/47298653/121009551-82f8f700-c7be-11eb-8686-1fc7d20b9d3d.png) </br>
-Table 4 </br>
-Sections of the spectrum have been allocated to the various users (described in table 5)
+Table 4 </br></br>
 > ![image](https://user-images.githubusercontent.com/47298653/121009815-cf443700-c7be-11eb-9aaa-55ef65c2ccaa.png)
-Table 5 </br>
-
+Table 5 </br></br>
+Sections of the spectrum have been allocated to the various users (described in table 5).
 
 
 # Radio noise, fading, and interference
