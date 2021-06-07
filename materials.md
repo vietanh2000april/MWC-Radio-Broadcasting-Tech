@@ -124,7 +124,7 @@ The tube must be pumped to a high degree of vacuum, or the plate current flow is
 <p>A piezoelectric crystal oscillator (a device that vibrates or oscillates at a given frequency emitting radio waves when voltage is applied to it) or its equivalent is ordinarily used.</p>
 
 ## Amplifiers
-<p>Amplifiers may be classified in a number of different ways:</p>
+Amplifiers may be classified in a number of different ways:
 1. Bandwidth (narrow or wide).
 2. Frequency range (audio, intermediate, or radio frequency)
 3. Output parameter requirement (voltage or power).
