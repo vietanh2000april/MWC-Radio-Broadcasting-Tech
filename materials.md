@@ -15,7 +15,6 @@ Radio broadcasting is the transmission of audio (sound), sometimes with related 
 ## Broadcasting
 Broadcasting is the distribution of audio or video content to a dispersed audience via any electronic mass communications medium, but typically one using the electromagnetic spectrum (radio waves), in a one-to-many model.
 
-https://www.britannica.com/technology/radio-technology/Development-of-radio-technology
 # History of radio technolology
 ## Maxwell’s prediction
   1864: James Clerk Maxwell proved: 
