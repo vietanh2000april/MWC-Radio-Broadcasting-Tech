@@ -73,13 +73,13 @@ An electron tube or transistor, designated an active element, functions basicall
 The simplest amplifying electron tube is the triode. </br>
 Triode consists of a cathode coated with material that provides a copious supply of electrons when heated, an open-mesh grid allowing electrons to pass through but controlling their flow, and a plate (anode) to collect the electrons. </br>
 > ![image](https://user-images.githubusercontent.com/47298653/121016273-20a3f480-c7c6-11eb-9632-1502a6564f02.png)
-</br></br><p>The plate is maintained at a positive voltage with respect to the cathode in order to attract the electrons.</p></br>
+<p>The plate is maintained at a positive voltage with respect to the cathode in order to attract the electrons.</p></br>
 The grid usually has a small negative voltage so that it does not collect electrons but does control their flow to the plate.</br>
 The output voltage is usually many times greater than the input voltage to the grid.</br>
 The tube must be pumped to a high degree of vacuum, or the plate current flow is erratic.</br>
 ### Tetrode
 > ![image](https://user-images.githubusercontent.com/47298653/121017259-4978b980-c7c7-11eb-917e-2bfd1d320876.png)
-</br>Tetrode contains an open-mesh grid (screen grid) maintained at a positive voltage is placed between plate and control grid.</br>
+<p>Tetrode contains an open-mesh grid (screen grid) maintained at a positive voltage is placed between plate and control grid.</p></br>
 This reduces the effect of plate voltage on electron flow and increases the amplifying property of the tube.</br>
 Introduction of a third grid, known as a suppressor grid, produces the pentode (five-electrode tube), which can provide even greater amplification.</br>
 4. 
