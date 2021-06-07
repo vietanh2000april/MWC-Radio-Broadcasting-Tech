@@ -83,10 +83,9 @@ The tube must be pumped to a high degree of vacuum, or the plate current flow is
 <p>This reduces the effect of plate voltage on electron flow and increases the amplifying property of the tube.</p></br>
 Introduction of a third grid, known as a suppressor grid, produces the pentode (five-electrode tube), which can provide even greater amplification.</br>
 ### Transistors
+<p>They largely replaced the electron tube as the active element in low-voltage electronic circuits, is made from semiconductor materials.</p></br>
 > ![image](https://user-images.githubusercontent.com/47298653/121018924-25b67300-c7c9-11eb-80e1-ab54a431f432.png)
-<p>They largely replaced the electron tube as the active element in low-voltage electronic circuits, is made from semiconductor materials. </p></br>
-
-Two common semiconductor materials are germanium and silicon, to which small amounts of impurities such as indium, gallium, arsenic, or phosphorus are added to impart electrical charges to them.</br>
+<p>Two common semiconductor materials are germanium and silicon, to which small amounts of impurities such as indium, gallium, arsenic, or phosphorus are added to impart electrical charges to them.</p></br>
 
 A transistor is a sandwich of semiconductor materials with the same impurity in the two outer layers and a different impurity in the centre layer providing current carriers of opposite charge to those produced by the outer layers.</br>
 
