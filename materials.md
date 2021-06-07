@@ -55,6 +55,8 @@ https://www.britannica.com/technology/radio-technology/Development-of-radio-tech
 ## Hand wiring
 
 ## Printed circuits
+![image](https://user-images.githubusercontent.com/47298653/121015750-893ea180-c7c5-11eb-8812-7b8e641d1281.png) </br>
+
 
 
 # Means of broadcasting
