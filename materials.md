@@ -231,26 +231,18 @@ Table 4 </br></br>
 Table 5 </br></br>
 <p> Sections of the spectrum have been allocated to the various users (described in table 5). </p>
 
-
-# Radio noise, fading, and interference
-
 https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/radio-broadcasting-technology
 # Applications
-## Microphones
 
+## Microphones
 
 ## Music Sources
 
-
 ## Tape Recorders
-
 
 ## The Audio Console
 
-
 ## Monitors, Audio Processors, and Transmitters
-
-
 
 # References
 1. https://en.wikipedia.org/wiki/Radio_broadcasting
