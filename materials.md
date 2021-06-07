@@ -110,7 +110,17 @@ Thus the power required from the power supply is much reduced, less heat is prod
 Transistors are also physically much smaller than comparable electron tubes.
 
 ## Tuned circuits and the superheterodyne principle
+<p>For information (voice, music, television) to be transmitted, it must be attached to a radio-frequency carrier wave, which is then transmitted in a given frequency channel.</p>
 
+> ![image](https://user-images.githubusercontent.com/47298653/121020582-b3469280-c7ca-11eb-8eac-d9523ed27999.png)
+
+<p>The carrier wave and information can be picked up by a receiver tuned to this channel.</p>
+<p>The process by which the information is attached to the carrier wave is modulation</p>
+<p>Modulated carriers are isolated in their separate slots or channels.</p>
+<p>In most modern radio receivers, reception is based on the superheterodyne principle.</p>
+<p>The incoming radio frequency is mixed (heterodyned) with the output of an oscillator the frequency of which is adjusted so that the difference between it and the incoming signal is constant.</p> 
+<p>The result is the intermediate frequency.</p>
+<p>Amplification is thereafter carried out at this intermediate frequency.</p>
 
 ## Oscillators
 
