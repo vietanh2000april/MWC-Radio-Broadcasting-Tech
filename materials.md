@@ -54,7 +54,7 @@ Broadcasting is the distribution of audio or video content to a dispersed audien
 ## Hand wiring
 
 ## Printed circuits
-![image](https://user-images.githubusercontent.com/47298653/121015750-893ea180-c7c5-11eb-8812-7b8e641d1281.png) </br>
+> ![image](https://user-images.githubusercontent.com/47298653/121015750-893ea180-c7c5-11eb-8812-7b8e641d1281.png) </br>
 
 
 
@@ -68,10 +68,16 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 # Components
 
 ## Active devices: vacuum tubes and transistors
-1. An electron tube or transistor, designated an active element, functions basically as an amplifier, and its output is essentially an amplified copy of the original input signal.
-2. The simplest amplifying electron tube is the triode.
-3. Triode consists of a cathode coated with material that provides a copious supply of electrons when heated, an open-mesh grid allowing electrons to pass through but controlling their flow, and a plate (anode) to collect the electrons.
-> ![image](https://user-images.githubusercontent.com/47298653/121016273-20a3f480-c7c6-11eb-9632-1502a6564f02.png)
+An electron tube or transistor, designated an active element, functions basically as an amplifier, and its output is essentially an amplified copy of the original input signal.
+### Triode
+The simplest amplifying electron tube is the triode. </br>
+Triode consists of a cathode coated with material that provides a copious supply of electrons when heated, an open-mesh grid allowing electrons to pass through but controlling their flow, and a plate (anode) to collect the electrons. </br>
+> ![image](https://user-images.githubusercontent.com/47298653/121016273-20a3f480-c7c6-11eb-9632-1502a6564f02.png) </br></br>
+<p>The plate is maintained at a positive voltage with respect to the cathode in order to attract the electrons.</p></br>
+The grid usually has a small negative voltage so that it does not collect electrons but does control their flow to the plate.</br>
+The output voltage is usually many times greater than the input voltage to the grid.</br>
+The tube must be pumped to a high degree of vacuum, or the plate current flow is erratic.</br>
+
 4. 
 5. 
 
