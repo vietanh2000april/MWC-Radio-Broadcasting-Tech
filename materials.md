@@ -85,7 +85,9 @@ The output voltage is usually many times greater than the input voltage to the g
 The tube must be pumped to a high degree of vacuum, or the plate current flow is erratic.
 
 ### Tetrode
-![4CX3500A RF Tetrode at Rs 300000/piece | Delhi| ID: 20590476330](https://5.imimg.com/data5/KM/QD/WY/SELLER-7200170/rf-tetrode-500x500.jpg)
+
+> ![4CX3500A RF Tetrode at Rs 300000/piece | Delhi| ID: 20590476330](https://5.imimg.com/data5/KM/QD/WY/SELLER-7200170/rf-tetrode-500x500.jpg)
+
 <p>Tetrode contains an open-mesh grid (screen grid) maintained at a positive voltage is placed between plate and control grid.</p></br>
 
 <p>This reduces the effect of plate voltage on electron flow and increases the amplifying property of the tube.</p></br>
