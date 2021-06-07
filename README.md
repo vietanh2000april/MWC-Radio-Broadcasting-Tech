@@ -128,6 +128,10 @@ https://en.wikipedia.org/wiki/Radio_broadcasting
 
 https://www.britannica.com/technology/radio-technology#ref25122
 # Mechanism of wave propagation
+A radio wave is made up of electric and magnetic fields vibrating mutually at right angles to each other in space. When these two fields are operating synchronously in time, they are said to be in time phase; in other words, both reach their maxima and minima together and both go through zero together. </br>
+As the distance from the source of energy increases, the area over which the electric and magnetic energy is spread is increased, so that the available energy per unit area is decreased.
+Radio signal intensity, like light intensity, decreases as the distance from the source increases.
+
 
 # Frequency bands
 
