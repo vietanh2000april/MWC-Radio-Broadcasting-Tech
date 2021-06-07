@@ -69,22 +69,34 @@ Broadcasting transmission (sound and television) uses both wires and radio waves
 
 ## Active devices: vacuum tubes and transistors
 An electron tube or transistor, designated an active element, functions basically as an amplifier, and its output is essentially an amplified copy of the original input signal.
+
 ### Triode
 The simplest amplifying electron tube is the triode. </br>
+
 Triode consists of a cathode coated with material that provides a copious supply of electrons when heated, an open-mesh grid allowing electrons to pass through but controlling their flow, and a plate (anode) to collect the electrons. </br>
+
 > ![image](https://user-images.githubusercontent.com/47298653/121016273-20a3f480-c7c6-11eb-9632-1502a6564f02.png)
 <p>The plate is maintained at a positive voltage with respect to the cathode in order to attract the electrons.</p></br>
+
 The grid usually has a small negative voltage so that it does not collect electrons but does control their flow to the plate.</br>
+
 The output voltage is usually many times greater than the input voltage to the grid.</br>
+
 The tube must be pumped to a high degree of vacuum, or the plate current flow is erratic.
+
 ### Tetrode
 ![4CX3500A RF Tetrode at Rs 300000/piece | Delhi| ID: 20590476330](https://5.imimg.com/data5/KM/QD/WY/SELLER-7200170/rf-tetrode-500x500.jpg)
 <p>Tetrode contains an open-mesh grid (screen grid) maintained at a positive voltage is placed between plate and control grid.</p></br>
+
 <p>This reduces the effect of plate voltage on electron flow and increases the amplifying property of the tube.</p></br>
+
 Introduction of a third grid, known as a suppressor grid, produces the pentode (five-electrode tube), which can provide even greater amplification.</br>
+
 ### Transistors
 <p>They largely replaced the electron tube as the active element in low-voltage electronic circuits, is made from semiconductor materials.</p></br>
+
 > ![image](https://user-images.githubusercontent.com/47298653/121018924-25b67300-c7c9-11eb-80e1-ab54a431f432.png)
+
 <p>Two common semiconductor materials are germanium and silicon, to which small amounts of impurities such as indium, gallium, arsenic, or phosphorus are added to impart electrical charges to them.</p></br>
 
 A transistor is a sandwich of semiconductor materials with the same impurity in the two outer layers and a different impurity in the centre layer providing current carriers of opposite charge to those produced by the outer layers.</br>
@@ -96,6 +108,7 @@ The transistor produces an adequate supply of current carriers (electrons and ho
 Thus the power required from the power supply is much reduced, less heat is produced, and the transistors and their circuitry can be packed into a smaller container and takes up less space.</br> 
 
 Transistors are also physically much smaller than comparable electron tubes.
+
 ## Tuned circuits and the superheterodyne principle
 
 
