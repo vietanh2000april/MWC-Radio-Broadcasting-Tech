@@ -124,6 +124,16 @@ The tube must be pumped to a high degree of vacuum, or the plate current flow is
 <p>A piezoelectric crystal oscillator (a device that vibrates or oscillates at a given frequency emitting radio waves when voltage is applied to it) or its equivalent is ordinarily used.</p>
 
 ## Amplifiers
+<p>Amplifiers may be classified in a number of different ways:</p>
+1. Bandwidth (narrow or wide).
+2. Frequency range (audio, intermediate, or radio frequency)
+3. Output parameter requirement (voltage or power).
+<p>Wide-band radio-frequency amplifiers are not needed for audio signals unless a frequency-modulated system is used.</p>
+<p>Audio-frequency amplifiers present few design problems, and negative feedback of the output into the input can overcome distortion problems.</p>
+<p>Radio-frequency amplifiers, which can be tuned, suffer from variation of selectivity (ability to separate adjacent stations) and gain (amplification) over the tuning range.</p>
+<p>Selectivity tends to broaden and gain to increase as capacitance is decreased, and instability can be troublesome at the highest tuning frequency.</p>
+<p>Intermediate-frequency amplifiers do not suffer from these defects since the tuning frequency is fixed.</p>
+<p>The main problem with radio-frequency amplifiers in receivers is the possibility of cross modulation—that is, the mixing of two information channels, which can occur if an undesired modulated signal enters the radio-frequency input together with the desired signal.</p>
 
 ## Antennas
 
