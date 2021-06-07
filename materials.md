@@ -136,7 +136,13 @@ Amplifiers may be classified in a number of different ways:
 <p>The main problem with radio-frequency amplifiers in receivers is the possibility of cross modulation—that is, the mixing of two information channels, which can occur if an undesired modulated signal enters the radio-frequency input together with the desired signal.</p>
 
 ## Antennas
-
+<p>Its purpose at the transmitter is to project electromagnetic energy into space and at the receiver to extract energy from the travelling electromagnetic wave produced from the transmitter antenna.</p>
+<p>The size of the antenna relative to the wavelength of the electromagnetic radiation is important.</p>
+<p>The wavelength of medium waves is about 300 metres (1,000 feet), and a vertical transmitting mast or self-supporting tower 150 to 210 metres (490 to 690 feet) high may be used with a high-power transmitter (200 kilowatts or more).</p>
+<p>If the transmitting antenna is vertical, the receiving antenna must also be vertical; if the former is horizontal the receiving antenna must be horizontal.</p>
+<p>The antenna system becomes progressively smaller as the transmitting frequency is increased, and at ultrahigh frequencies (300 megahertz or more) the individual antenna may be only about 50 centimetres (20 inches) long.</p>
+<p>For normal amplitude-modulated broadcasting, the receiver antenna may be composed of a fairly short coil of wire wound on a powdered iron or ferrite core.</p>
+<p>This type of design permits adequate signal pickup with a very small antenna which may be located in a small space, a necessity for small, battery-operated portable receivers.</p>
 ## Transmission lines
 
 # Broadcast Models
